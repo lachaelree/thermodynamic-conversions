@@ -1,0 +1,2 @@
+# thermodynamic-conversions
+Performance of electrolytes in lithium ion batteries is characterized by thermodynamic properties like the activity coefficients of salts and solvents, thermodynamic factor of salts and the osmotic coefficient of solvents. Often, experimental data are available for only some of these thermodynamic properties. Fortunately you can convert between these properties using mathematical equations.  This code contains 8 different functions that convert these thermodynamic properties to each other.
